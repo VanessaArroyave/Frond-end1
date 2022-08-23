@@ -1,0 +1,42 @@
+header{
+    background: #E6E6E6;
+    
+
+}
+
+.encabezado {
+    background: #C4C4C4;
+    font-family:'Times New Roman';
+    color: #005677;
+}
+
+h3{
+    background: #C4C4C4;
+    font-family: 'Times New Roman';
+    color: #005677;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 30px
+}
+
+.datosPersonales{
+    font-weight: bold;
+    font-style: italic;
+    
+    ;
+}
+.fechas{
+    font-weight: bold;
+    
+    
+}
+
+footer{
+    background:#005677;
+    font-family: 'Times New Roman';
+    background-color: #005677;
+    height: 37px;
+    color: #E6E6E6;
+    font-size: 20px;
+}
